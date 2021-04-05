@@ -1,0 +1,6 @@
+﻿  dayType.cpp
+  Task 3.cpp
+  Generating Code...
+C:\Users\Musa\Documents\OOP Lab 3\OOP Lab 3\dayType.cpp(35): warning C4715: 'dayType::GetNext': not all control paths return a value
+C:\Users\Musa\Documents\OOP Lab 3\OOP Lab 3\dayType.cpp(49): warning C4715: 'dayType::GetPrevious': not all control paths return a value
+  OOP Lab 3.vcxproj -> C:\Users\Musa\Documents\OOP Lab 3\Debug\OOP Lab 3.exe
