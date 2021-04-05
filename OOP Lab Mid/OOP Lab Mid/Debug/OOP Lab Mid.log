@@ -1,0 +1,23 @@
+﻿  Class.cpp
+  Source.cpp
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(4,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(6,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,18): error C2133: 'fb': unknown size
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,3): error C2146: syntax error: missing ';' before identifier 'FunWithNumbers'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,3): error C2065: 'FunWithNumbers': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,18): error C2146: syntax error: missing ';' before identifier 'F'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,23): error C2065: 'na': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(9,18): error C3861: 'F': identifier not found
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(10,2): error C2065: 'FunWithNumbers': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(10,17): error C2146: syntax error: missing ';' before identifier 'G'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(10,22): error C2065: 'nb': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(10,17): error C3861: 'G': identifier not found
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(11,2): error C2065: 'FunWithNumbers': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(11,17): error C2146: syntax error: missing ';' before identifier 'H'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(11,22): error C2065: 'na': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(11,17): error C3861: 'H': identifier not found
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(12,2): error C2065: 'FunWithNumbers': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(12,17): error C2146: syntax error: missing ';' before identifier 'F'
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(12,22): error C2065: 'na': undeclared identifier
+C:\Users\Musa\Documents\OOP Lab Mid\OOP Lab Mid\Source.cpp(12,17): error C3861: 'F': identifier not found
+  Generating Code...
