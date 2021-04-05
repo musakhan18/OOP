@@ -1,0 +1,186 @@
+Number of Paragraph: 2
+
+Number of Sentence in Paragraph 1: 2
+Number of Sentence in Paragraph 2: 2
+
+Numbers of words in Sentence 1 of paragraph 1: 23
+Numbers of words in Sentence 2 of paragraph 1: 22
+Numbers of words in Sentence 1 of paragraph 2: 18
+Numbers of words in Sentence 2 of paragraph 2: 25
+
+Numbers of Characters in word 1: 4
+
+Numbers of Characters in word 2: 8
+
+Numbers of Characters in word 3: 9
+
+Numbers of Characters in word 4: 7
+
+Numbers of Characters in word 5: 12
+
+Numbers of Characters in word 6: 2
+
+Numbers of Characters in word 7: 1
+
+Numbers of Characters in word 8: 5
+
+Numbers of Characters in word 9: 7
+
+Numbers of Characters in word 10: 7
+
+Numbers of Characters in word 11: 2
+
+Numbers of Characters in word 12: 5
+
+Numbers of Characters in word 13: 5
+
+Numbers of Characters in word 14: 5
+
+Numbers of Characters in word 15: 2
+
+Numbers of Characters in word 16: 13
+
+Numbers of Characters in word 17: 6
+
+Numbers of Characters in word 18: 7
+
+Numbers of Characters in word 19: 1
+
+Numbers of Characters in word 20: 6
+
+Numbers of Characters in word 21: 2
+
+Numbers of Characters in word 22: 7
+
+Numbers of Characters in word 23: 14
+
+Numbers of Characters in word 24: 7
+
+Numbers of Characters in word 25: 2
+
+Numbers of Characters in word 26: 9
+
+Numbers of Characters in word 27: 2
+
+Numbers of Characters in word 28: 1
+
+Numbers of Characters in word 29: 4
+
+Numbers of Characters in word 30: 7
+
+Numbers of Characters in word 31: 4
+
+Numbers of Characters in word 32: 2
+
+Numbers of Characters in word 33: 5
+
+Numbers of Characters in word 34: 3
+
+Numbers of Characters in word 35: 5
+
+Numbers of Characters in word 36: 5
+
+Numbers of Characters in word 37: 5
+
+Numbers of Characters in word 38: 2
+
+Numbers of Characters in word 39: 3
+
+Numbers of Characters in word 40: 7
+
+Numbers of Characters in word 41: 1
+
+Numbers of Characters in word 42: 6
+
+Numbers of Characters in word 43: 2
+
+Numbers of Characters in word 44: 4
+
+Numbers of Characters in word 45: 10
+
+Numbers of Characters in word 46: 4
+
+Numbers of Characters in word 47: 7
+
+Numbers of Characters in word 48: 3
+
+Numbers of Characters in word 49: 1
+
+Numbers of Characters in word 50: 7
+
+Numbers of Characters in word 51: 8
+
+Numbers of Characters in word 52: 2
+
+Numbers of Characters in word 53: 2
+
+Numbers of Characters in word 54: 1
+
+Numbers of Characters in word 55: 6
+
+Numbers of Characters in word 56: 4
+
+Numbers of Characters in word 57: 10
+
+Numbers of Characters in word 58: 2
+
+Numbers of Characters in word 59: 4
+
+Numbers of Characters in word 60: 5
+
+Numbers of Characters in word 61: 2
+
+Numbers of Characters in word 62: 3
+
+Numbers of Characters in word 63: 6
+
+Numbers of Characters in word 64: 3
+
+Numbers of Characters in word 65: 5
+
+Numbers of Characters in word 66: 3
+
+Numbers of Characters in word 67: 4
+
+Numbers of Characters in word 68: 2
+
+Numbers of Characters in word 69: 3
+
+Numbers of Characters in word 70: 6
+
+Numbers of Characters in word 71: 3
+
+Numbers of Characters in word 72: 3
+
+Numbers of Characters in word 73: 2
+
+Numbers of Characters in word 74: 6
+
+Numbers of Characters in word 75: 2
+
+Numbers of Characters in word 76: 4
+
+Numbers of Characters in word 77: 8
+
+Numbers of Characters in word 78: 2
+
+Numbers of Characters in word 79: 7
+
+Numbers of Characters in word 80: 9
+
+Numbers of Characters in word 81: 6
+
+Numbers of Characters in word 82: 4
+
+Numbers of Characters in word 83: 3
+
+Numbers of Characters in word 84: 2
+
+Numbers of Characters in word 85: 4
+
+Numbers of Characters in word 86: 2
+
+Numbers of Characters in word 87: 9
+
+Numbers of Characters in word 88: 11
+

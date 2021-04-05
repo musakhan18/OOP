@@ -1,0 +1,10 @@
+Vehicle Information
+------------------------
+Number Of Bikes: 1
+Number Of Cars: 1
+Number Of Trucks: 1
+Company Name:		Type:		Color:		Power:
+-----------------------------------------------------------------
+honda			Bike		red		125
+audi			Car		black		1000
+toyota			Truck		white		800

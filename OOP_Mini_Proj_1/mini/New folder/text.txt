@@ -1,0 +1,6 @@
+Roll forming, sometimes spelled rollforming, is a metal forming process in which sheet metal is progressively
+shaped through a series of bending operations.The process is performed on a roll forming line in which the 
+sheet metal stock is fed through a series of roll stations.@
+Each station has a roller, referred to as a roller die, positioned on both sides of the sheet. The shape and
+size of the roller die may be unique to that station, or several identical roller dies may be used in different
+positions.@

@@ -1,0 +1,8 @@
+﻿  BilalMotors.cpp
+C:\Users\Musa\Documents\OOP Mini Project 2\OOP Mini Project 2\BilalMotors.cpp(55,21): warning C4018: '<': signed/unsigned mismatch
+  OOP Mini Project 2.cpp
+  Truck.cpp
+C:\Users\Musa\Documents\OOP Mini Project 2\OOP Mini Project 2\Truck.cpp(160,8): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Musa\Documents\OOP Mini Project 2\OOP Mini Project 2\Truck.cpp(164,8): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  OOP Mini Project 2.vcxproj -> C:\Users\Musa\Documents\OOP Mini Project 2\Debug\OOP Mini Project 2.exe
